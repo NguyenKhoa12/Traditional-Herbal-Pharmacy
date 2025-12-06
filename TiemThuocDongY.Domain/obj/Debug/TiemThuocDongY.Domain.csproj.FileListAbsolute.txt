@@ -1,0 +1,15 @@
+D:\CODE\repos\TiemThuocDongY\TiemThuocDongY.Domain\bin\Debug\TiemThuocDongY.Domain.dll
+D:\CODE\repos\TiemThuocDongY\TiemThuocDongY.Domain\bin\Debug\TiemThuocDongY.Domain.pdb
+D:\CODE\repos\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuocDongY.Domain.csproj.AssemblyReference.cache
+D:\CODE\repos\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuocDongY.Domain.csproj.CoreCompileInputs.cache
+D:\CODE\repos\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuocDongY.Domain.dll
+D:\CODE\repos\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuocDongY.Domain.pdb
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\bin\Debug\TiemThuocDongY.Domain.dll
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\bin\Debug\TiemThuocDongY.Domain.pdb
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\bin\Debug\System.Data.SqlClient.dll
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\bin\Debug\System.Data.SqlClient.xml
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuocDongY.Domain.csproj.AssemblyReference.cache
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuocDongY.Domain.csproj.CoreCompileInputs.cache
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuo.2EADB769.Up2Date
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuocDongY.Domain.dll
+D:\Test CNPM\TiemThuocDongY(2)\TiemThuocDongY\TiemThuocDongY.Domain\obj\Debug\TiemThuocDongY.Domain.pdb
